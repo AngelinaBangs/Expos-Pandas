@@ -112,6 +112,16 @@ df['date'].dt.year, .dt.month, .dt.day   # Extraction des composantes<br>
 df['date'].dt.weekday                    # Jour de la semaine<br>
 df.set_index('date')                     # Utilisation comme index<br>
 
+# Cas Pratique
+Chargement du Data Set Voiture pour la manipulation des fonctions citées ci-haut
+-  Filtrer les données par condition
+- Calculer des moyennes ou des totaux
+- Exporter le résultat etc...
+
+# Conclusion
+Pandas simplifie la manipulation de données
+Utile pour les rapports et l’automatisation
+Indispensable pour les data analysts et développeurs
 
 
 
