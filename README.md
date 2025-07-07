@@ -1,16 +1,16 @@
 # Exposé-Pandas
  # Qu’est-ce que Pandas ?
 
-✅ Librairie Python pour la manipulation de données.
-✅ Permet de travailler avec des tableaux (type Excel).
-✅ Très utilisée en data science et analyse de données.
+✅ Librairie Python pour la manipulation de données.<br>
+✅ Permet de travailler avec des tableaux (type Excel).<br>
+✅ Très utilisée en data science et analyse de données.<br>
 
 # Pourquoi utiliser Pandas?
 
-✅ Manipulation facile de données (manipulation, transformation, exploration)
-✅ Gestion de grands volumes de données
-✅ Fusion, tri, filtrage, regroupement de données
-✅ Lecture et écriture des différents formats Excel, CSV, SQL, etc.
+✅ Manipulation facile de données (manipulation, transformation, exploration)<br>
+✅ Gestion de grands volumes de données<br>
+✅ Fusion, tri, filtrage, regroupement de données<br>
+✅ Lecture et écriture des différents formats Excel, CSV, SQL, etc.<br>
 
 # Cas d'utilisation
 Pour pouvoir manipuler les données, il faudrait tout d’abord importer la librairie pandas. La syntaxe est la suivante:
