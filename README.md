@@ -1,3 +1,5 @@
+Cet exposé a été réalisé par Oumar KOULIBALY et Angelina M'Balombe BANGOURA.
+
 # Exposé-Pandas
  # Qu’est-ce que Pandas ?
 
